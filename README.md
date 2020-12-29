@@ -33,3 +33,6 @@ bash Android_Infection.sh
 [+]-- You can select any option by clicking on your keyboard
 
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
+# Warning:
+may not work properly under android version 5.0.0
+Do not take risk on your own phone demenged data can't be recoverd
