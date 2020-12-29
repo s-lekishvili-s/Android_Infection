@@ -16,16 +16,16 @@ echo '
                     _  _  _____  ____  ____ 
                    ( \( )(  _  )(_  _)( ___)
                     )  (  )(_)(   )(   )__) 
-                   (_)\_)(_____) (__) (____) ' | Maincat
+                   (_)\_)(_____) (__) (____) ' | lolcat
 echo " "
 echo " "
 cat letter.txt
 echo " "
-echo "                      " Have fun buddy | Maincat
+echo "                      " Have fun buddy | lolcat
 echo " " 
 echo " "
 sleep 50.0
 clear 
 cd $HOME/Android_Infection
 bash Android_Infection.sh
-exit 
+exit
