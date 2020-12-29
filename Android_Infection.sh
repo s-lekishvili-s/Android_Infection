@@ -1,5 +1,3 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
 # Colours
 #-----------------
 red='\033[1;31m'
