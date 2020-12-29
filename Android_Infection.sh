@@ -31,7 +31,7 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
                          noobhacker
-'|Maincat
+'|lolcat
 echo " " 
 
 echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
