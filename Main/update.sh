@@ -47,4 +47,3 @@ cd Android_Infection
 bash Android_Infection.sh
 clear
 sleep 1.0
-
