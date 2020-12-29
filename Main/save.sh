@@ -16,12 +16,12 @@ echo '
                     _  _  _____  ____  ____
                    ( \( )(  _  )(_  _)( ___)
                     )  (  )(_)(   )(   )__)
-                   (_)\_)(_____) (__) (____) ' | Maincat
+                   (_)\_)(_____) (__) (____) ' | lolcat
 echo " "
 echo " "
 cat save.txt
 echo " "
-echo "                      " Be polite buddy | Maincat
+echo "                      " Be polite buddy | lolcat
 echo " "
 echo " "
 sleep 50.0
