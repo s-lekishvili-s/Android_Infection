@@ -4,29 +4,29 @@ making android virus using termux.
 
 # INSTALATION:
 
-apt-get update -y
+✔ apt-get update -y
 
-apt-get upgrade -y
+✔ apt-get upgrade -y
 
-pkg install python -y
+✔ pkg install python -y
 
-pkg install python2 -y
+✔ pkg install python2 -y
 
-pkg install git -y
+✔ pkg install git -y
 
-pip install lolcat
+✔ pip install lolcat
 
-git clone https://github.com/s-lekishvili-s/Android_Infection.git
+✔ git clone https://github.com/s-lekishvili-s/Android_Infection.git
 
-cd $HOME
+✔ cd $HOME
 
-ls
+✔ ls
 
-cd Android_Infection
+✔ cd Android_Infection
 
-ls
+✔ ls
 
-bash Android_Infection.sh
+✔ bash Android_Infection.sh
 
 [+]-- Now you need internet connection to continue further process...
 
