@@ -14,7 +14,7 @@ pkg install python2 -y
 
 pkg install git -y
 
-pip install Maincat
+pip install lolcat
 
 git clone https://github.com/s-lekishvili-s/Android_Infection.git
 
